@@ -1,4 +1,4 @@
-## Commands
+## Terraform Commands
 
 Main commands:
  - `init`          Prepare your working directory for other commands
